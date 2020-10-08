@@ -1,0 +1,3 @@
+[submodule "open-contract"]
+	path = open-contract
+	url = git@github.com:xmarts/open-contract.git
